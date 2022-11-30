@@ -1,0 +1,1 @@
+[이 책](http://learnyouahaskell.com)을 보고 [블로그 글](https://velog.io/@telnturtle/%EC%B1%85-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%ED%95%98%EC%8A%A4%EC%BC%88-%EC%B1%85%EC%9D%84-%EC%9D%BD%EA%B3%A0-%EC%97%B0%EC%8A%B5%ED%95%B4%EB%B3%B4%EC%95%98%EB%8B%A4)에서 사용된 예제들.
